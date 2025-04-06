@@ -4,5 +4,6 @@ numpy
 pymongo
 certifi
 pymongo[srv]==3.6
+scikit-learn
 # -e .
 # this is refering to setup.py file after a pip install -r requirements.txt
