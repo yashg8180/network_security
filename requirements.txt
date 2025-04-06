@@ -3,6 +3,6 @@ pandas
 numpy
 pymongo
 certifi
-
+pymongo[srv]==3.6
 # -e .
 # this is refering to setup.py file after a pip install -r requirements.txt
